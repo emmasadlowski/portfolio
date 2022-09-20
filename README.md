@@ -1,3 +1,3 @@
 # websitev2
 
-Hi honey i'm home
+This is Emma Sadlowski's website and writing portfolio.
