@@ -31,7 +31,8 @@ h1 {
     text-align: center;
 }
 
-p {
+p,
+ul {
     line-height: 25px
 }
 
@@ -90,6 +91,10 @@ main>* {
 
 .field {
     margin-bottom: 1.25rem;
+}
+
+.professional {
+    padding-right: 1.5rem;
 }
 
 #socials {
